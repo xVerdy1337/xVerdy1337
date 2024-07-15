@@ -19,11 +19,11 @@ Python разработчик из Волоколамска, Россия. 🐍
 
 ## 📊 GitHub статистика
 
-![Ваша GitHub статистика](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Ваша GitHub статистика](https://github-readme-stats.vercel.app/api?username=xVerdy1337&show_icons=true&theme=radical)
 
 ## 🌟 Топ языков
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=radical)
 
 ## 📫 Как со мной связаться
 
