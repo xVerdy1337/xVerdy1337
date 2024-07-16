@@ -15,7 +15,6 @@ Python разработчик из Волоколамска, Россия. 🐍
 ![disnake](https://img.shields.io/badge/-disnake-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![vkbottle](https://img.shields.io/badge/-vkbottle-4C75A3?style=flat-square&logo=vk&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub статистика
 
