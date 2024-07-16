@@ -6,7 +6,7 @@ Python разработчик из России. 🐍
 
 - 🎓 18 лет
 - 💻 Изучаю Python более 2 лет
-- 
+
 ## 🛠 Технический стек
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
