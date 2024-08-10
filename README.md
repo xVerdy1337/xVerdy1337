@@ -7,10 +7,12 @@
 ![aiogram](https://img.shields.io/badge/-aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![disnake](https://img.shields.io/badge/-disnake-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![vkbottle](https://img.shields.io/badge/-vkbottle-4C75A3?style=flat-square&logo=vk&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-7F7F7F?style=flat-square&logo=python&logoColor=white)
 
 ### Базы данных
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Инструменты и платформы
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
