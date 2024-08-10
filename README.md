@@ -8,6 +8,7 @@
 ![disnake](https://img.shields.io/badge/-disnake-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![vkbottle](https://img.shields.io/badge/-vkbottle-4C75A3?style=flat-square&logo=vk&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-7F7F7F?style=flat-square&logo=python&logoColor=white)
+![Motor](https://img.shields.io/badge/-Motor-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Базы данных
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
