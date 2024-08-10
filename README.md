@@ -1,5 +1,3 @@
-Sure! Here's your content translated into English:
-
 ## 🛠 Technical Stack
 
 ### Programming Languages
