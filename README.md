@@ -1,5 +1,3 @@
-Here is the updated version of your technical stack with Linux, PyCharm, and Bash added:
-
 ## 🛠 Technical Stack
 
 ### Programming Languages
