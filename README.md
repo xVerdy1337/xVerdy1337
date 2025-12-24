@@ -1,36 +1,50 @@
-## 🛠 Technical Stack
+# Привет, я Verdy! 👋
+### 🚀 Fullstack Developer & AI Enthusiast
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+---
 
-### Frameworks and Libraries
-![aiogram](https://img.shields.io/badge/-aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![disnake](https://img.shields.io/badge/-disnake-7289DA?style=flat-square&logo=discord&logoColor=white)
-![vkbottle](https://img.shields.io/badge/-vkbottle-4C75A3?style=flat-square&logo=vk&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-7F7F7F?style=flat-square&logo=python&logoColor=white)
-![Motor](https://img.shields.io/badge/-Motor-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 🛠 Мой технологический стек
 
-### Databases
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Frontend Development**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind)](https://skillicons.dev)
 
-### Tools and Platforms
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Backend & Bot Development**  
+[![My Skills](https://skillicons.dev/icons?i=py,linux,git,bash)](https://skillicons.dev)  
+> `aiogram` | `disnake` | `vkbottle` | `SQLAlchemy`
 
-## 📊 GitHub Statistics
+**AI & LLM Integration**  
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xVerdy1337&show_icons=true&theme=radical)
+**Databases**  
+![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## 🌟 Top Languages
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=radical)
+### 📊 Статистика активности
 
-## 📫 How to Contact Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xVerdy1337&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=radical&hide_border=true" alt="Langs" />
+</p>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xVerdy1337)  
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/verdy123)  
-[![VK](https://img.shields.io/badge/-VK-4C75A3?style=flat-square&logo=vk&logoColor=white)](https://vk.com/verdy1337)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xVerdy1337&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+### 📫 Как со мной связаться
+
+<p align="left">
+<a href="https://t.me/xVerdy1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://discord.com/users/verdy123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://vk.com/verdy1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vincent-hunt.svg" alt="VK" height="30" width="40" /></a>
+</p>
+
+---
+![Visitor Count](https://komarev.com/ghpvc/?username=xVerdy1337&color=blueviolet)
