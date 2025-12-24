@@ -62,11 +62,9 @@
 ### 📊 Статистика активности
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xVerdy1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xVerdy1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Langs" />
 </p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xVerdy1337&theme=tokyonight&hide_border=true" alt="Streak" />
 
 ---
 
