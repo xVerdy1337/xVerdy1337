@@ -28,8 +28,8 @@
 ### 📊 Статистика активности
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xVerdy1337&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=radical&hide_border=true" alt="Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xVerdy1337&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=radical&hide_border=true" alt="Langs" />
 </p>
 
 <p align="center">
@@ -47,4 +47,6 @@
 </p>
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=xVerdy1337&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xVerdy1337&color=blueviolet" alt="Visitor Count" />
+</p>
