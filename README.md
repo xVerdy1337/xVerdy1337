@@ -1,4 +1,4 @@
-# Привет, я Verdy! 👋
+# Hi, I'm Verdy! 👋
 ### 🚀 Fullstack Developer & AI Enthusiast
 
 ---
@@ -32,19 +32,13 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=radical&hide_border=true" alt="Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xVerdy1337&theme=radical&hide_border=true" alt="Streak" />
-</p>
-
 ---
 
-### 📫 Как со мной связаться
+### 📫 Связь со мной
 
-<p align="left">
-<a href="https://t.me/xVerdy1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
-<a href="https://discord.com/users/verdy123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="https://vk.com/verdy1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vincent-hunt.svg" alt="VK" height="30" width="40" /></a>
-</p>
+<a href="https://t.me/xVerdy1337" target="blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 
 ---
 <p align="center">
