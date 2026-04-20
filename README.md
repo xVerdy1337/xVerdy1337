@@ -1,86 +1,91 @@
 <div align="center">
 
-# Hi, I'm Verdy! 👋
-### 🚀 Fullstack Developer & AI Enthusiast
+# Hi, I'm Verdy 👋
+### Fullstack Developer • AI Enthusiast
 
-<!-- Анимированный текст: адаптирован под твои реальные навыки -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+FastAPI+Web+Services;Creating+smart+Telegram+bots;Fullstack+Development+(React%2FVue);Integrating+AI+solutions" alt="Typing SVG" />
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+FastAPI+web+services;Developing+Telegram+bots;Creating+apps+with+React+%2F+Vue;Integrating+AI+into+products"
+    alt="Typing SVG"
+  />
 </a>
 
 ---
 
-### 🧐 Обо мне
+### 👨‍💻 About me
 
 <p align="center">
-  🔭 Разрабатываю <b>веб-сервисы и ботов</b><br>
-  ⚡ Основной стек: <b>Python (FastAPI) & React/Vue</b><br>
-  🤖 Увлекаюсь интеграцией <b>LLM (OpenAI, Gemini)</b> в проекты
+  Разрабатываю <b>веб-сервисы, ботов и AI-powered продукты</b><br>
+  Основной стек: <b>Python • FastAPI • React/Vue</b><br>
+  Интегрирую <b>LLM</b> в реальные проекты и люблю автоматизировать рутину
 </p>
 
 ---
 
-### 🛠 Мой технологический стек
+### 🛠 Tech Stack
 
-**Frontend & Deployment**  
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,vercel&theme=dark" />
-</a>
-
-<br>
-
-**Backend & Python Core**  
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,linux,git,bash&theme=dark" />
-</a>
-
-<!-- Библиотеки Python -->
+#### Frontend & Deployment
 <p>
-  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
-  <img src="https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="disnake"/>
-  <img src="https://img.shields.io/badge/vkbottle-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="vkbottle"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,vercel&theme=dark" alt="Frontend skills" />
 </p>
 
-**AI Tools & API**  
-<br>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white">
+#### Backend & Python
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,linux,git,bash&theme=dark" alt="Backend skills" />
+</p>
 
-**Databases**  
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
+  <img src="https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="disnake" />
+  <img src="https://img.shields.io/badge/vkbottle-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="vkbottle" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+</p>
+
+#### AI Tools & APIs
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
+</p>
+
+#### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" alt="SurrealDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
 ---
 
-### 📊 Статистика активности
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xVerdy1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Langs" />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=xVerdy1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xVerdy1337&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+    height="170"
+  />
 </p>
 
 ---
 
-### 📫 Связь со мной
+### 📫 Contact me
 
-<div align="center">
-  <a href="https://t.me/xVerdy1337" target="blank">
+<p align="center">
+  <a href="https://t.me/xVerdy1337" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:artgrach86@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-artgrach86@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:artgrach86@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
-<br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=xVerdy1337&color=blueviolet&style=flat-square" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=xVerdy1337&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 </div>
